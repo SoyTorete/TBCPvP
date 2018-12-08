@@ -63,3 +63,6 @@ database/updates directory.
 
 Our Bug Tracker is located here.
 https://github.com/robinsch/TBCPvP/issues
+
+
+Utilice cmake-3.6.2-win64-x64 y VS2013
